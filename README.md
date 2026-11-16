@@ -1,5 +1,14 @@
 A Basic Molecule Builder which lets you design chemistry molecules
 
+Packages Used :
+
+tkinter
+
+PIL (Image Grab)
+
+datetime
+
+
 Features : 
 
 Delete button
